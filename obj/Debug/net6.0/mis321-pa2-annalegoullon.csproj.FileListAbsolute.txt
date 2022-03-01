@@ -1,0 +1,15 @@
+C:\Source\repos\mis321-pa2-annalegoullon\bin\Debug\net6.0\mis321-pa2-annalegoullon.exe
+C:\Source\repos\mis321-pa2-annalegoullon\bin\Debug\net6.0\mis321-pa2-annalegoullon.deps.json
+C:\Source\repos\mis321-pa2-annalegoullon\bin\Debug\net6.0\mis321-pa2-annalegoullon.runtimeconfig.json
+C:\Source\repos\mis321-pa2-annalegoullon\bin\Debug\net6.0\mis321-pa2-annalegoullon.dll
+C:\Source\repos\mis321-pa2-annalegoullon\bin\Debug\net6.0\ref\mis321-pa2-annalegoullon.dll
+C:\Source\repos\mis321-pa2-annalegoullon\bin\Debug\net6.0\mis321-pa2-annalegoullon.pdb
+C:\Source\repos\mis321-pa2-annalegoullon\obj\Debug\net6.0\mis321-pa2-annalegoullon.csproj.AssemblyReference.cache
+C:\Source\repos\mis321-pa2-annalegoullon\obj\Debug\net6.0\mis321-pa2-annalegoullon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\repos\mis321-pa2-annalegoullon\obj\Debug\net6.0\mis321-pa2-annalegoullon.AssemblyInfoInputs.cache
+C:\Source\repos\mis321-pa2-annalegoullon\obj\Debug\net6.0\mis321-pa2-annalegoullon.AssemblyInfo.cs
+C:\Source\repos\mis321-pa2-annalegoullon\obj\Debug\net6.0\mis321-pa2-annalegoullon.csproj.CoreCompileInputs.cache
+C:\Source\repos\mis321-pa2-annalegoullon\obj\Debug\net6.0\mis321-pa2-annalegoullon.dll
+C:\Source\repos\mis321-pa2-annalegoullon\obj\Debug\net6.0\ref\mis321-pa2-annalegoullon.dll
+C:\Source\repos\mis321-pa2-annalegoullon\obj\Debug\net6.0\mis321-pa2-annalegoullon.pdb
+C:\Source\repos\mis321-pa2-annalegoullon\obj\Debug\net6.0\mis321-pa2-annalegoullon.genruntimeconfig.cache
